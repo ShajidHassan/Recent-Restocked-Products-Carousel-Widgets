@@ -19,3 +19,7 @@
 .recent-restocked-products-carousel .product {
   border-bottom: 0 !important;
 }
+
+.slider-wrapper .slick-arrow {
+  top: 30% !important;
+}
