@@ -1,0 +1,21 @@
+/* Add your custom styles here for the carousel */
+
+.product-button-group a {
+  background: transparent !important;
+  color: #4c7031 !important;
+}
+
+.product-button-group a:hover {
+  background: #4c7031 !important;
+  color: #ffffff !important;
+}
+.slider-wrapper .slick-prev {
+  left: -1.25rem !important;
+}
+.slider-wrapper .slick-next {
+  right: -1.25rem !important;
+}
+
+.recent-restocked-products-carousel .product {
+  border-bottom: 0 !important;
+}
